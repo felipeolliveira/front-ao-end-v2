@@ -1,0 +1,52 @@
+body {
+  color: #333536;
+}
+
+header > div {
+  width: 332.2px;
+  height: 332.2px;
+  background-color: #cbc5c5;
+  border-radius: 50%;
+  text-align: center;
+}
+
+header > div > img {
+  width: 296.6px;
+  height: auto;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+h2  {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26.7px;
+  color: #47a0d9
+}
+
+ul {
+  font-size: 26px;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  list-style: none;
+}
+
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23.3px;
+  line-height: 32px;
+}
+
+b {
+  color: #47a0d9;
+}
