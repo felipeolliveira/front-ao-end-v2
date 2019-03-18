@@ -7,12 +7,6 @@ body {
   height: 332px;
   background-color: #cbc5c5;
   border-radius: 50%;
-  text-align: center;
-}
-
-#avatar {
-  width: 296px;
-  height: auto;
 }
 
 header {
